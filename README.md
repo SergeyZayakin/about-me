@@ -4,7 +4,7 @@
 – Занимаюсь аналитикой с 2014 года - [опыт работы](https://github.com/SergeyZayakin/about-me/blob/main/job.md).     
 – Портфолио выполненных проектов по аналитике данных - [портфолио](https://github.com/SergeyZayakin/portfolio/blob/main/README.md).   
 – В работе использую `Python`, `PostgreSQL` и `SQLite`, `MS Power BI` и `Tableau`, `Excel`. Знаком с Adobe Photoshop и Adobe InDesign.   
-– Регулярно изучаю новое - получаю новые знания и навыки - [образование](https://github.com/SergeyZayakin/about-me/blob/main/education.md)
+– Регулярно изучаю новое - получаю новые знания и навыки - [образование](https://github.com/SergeyZayakin/about-me/blob/main/education.md).   
     
 – Участвовал в подготовке, как аналитик или руководитель проектов, более 90 исследований. [Резюме с полным перечнем проектов](https://docs.google.com/spreadsheets/d/1-aoz2BlzqIXNrPgwyKxu2VqmRh-PPFJ27W0_di3_6rE/edit?usp=sharing)   
 – Участвовал в разработке документов старатегического планирования: Стратегии Свердловской области, Стратегии Нефтеюганского района ХМАО, Концепции развития г. Уфа, Концепции построения «умного региона» на территории Свердловской области, Стратегии развития инновационного кластера «Титановый кластер Свердловской области» и т.д.
