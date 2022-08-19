@@ -2,7 +2,7 @@
 Расскажу о себе, о том что умею и в каких проектах участвал. 
 
 – Занимаюсь аналитикой с 2014 года - [опыт работы](https://github.com/SergeyZayakin/about-me/blob/main/job.md).     
-– [Портфолио выполненных проектов по аналитике данных](https://github.com/SergeyZayakin/portfolio/blob/main/README.md).   
+– Портфолио выполненных проектов по [аналитике данных](https://github.com/SergeyZayakin/portfolio/blob/main/README.md).   
 – В работе использую `Python`, `PostgreSQL` и `SQLite`, `MS Power BI` и `Tableau`, `Excel`. Знаком с Adobe Photoshop и Adobe InDesign.   
 – Готов к большим рабочим нагрузкам.   
     
